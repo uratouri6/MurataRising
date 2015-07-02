@@ -1,0 +1,7 @@
+#include "stdafx.h"
+#include "myNameIs.h"
+
+void myNameIs(void){
+	
+	printf("kaneko");
+}
