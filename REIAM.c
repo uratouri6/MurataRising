@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "myNameIs.h"
+#include "thirdNameIs.h"
 
 void main(){
 	int i;
@@ -7,4 +8,5 @@ void main(){
 		printf("Hello!\n");
 	}
 	myNameIs();
+	thirdNameIs();
 }
