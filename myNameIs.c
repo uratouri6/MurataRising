@@ -1,7 +1,7 @@
-#include "stdafx.h"
 #include "myNameIs.h"
+#include <stdio.h>
 
 void myNameIs(){
 
-	printf("arahabaki");
+	printf("arahabaki\n");
 }
