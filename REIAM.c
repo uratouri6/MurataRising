@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include "myNameIs.h"
 #include "thirdNameIs.h"
@@ -9,6 +8,5 @@ void main(){
 		printf("Hello!\n");
 	}
 	myNameIs();
-	thirdNameIs();
 }
-
+>>>>>>> ed95e41420779ff1c3b7d1f39d548537cd8e1f71

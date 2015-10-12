@@ -1,1 +1,1 @@
-void thirdNameIs(void);
+void thirdNameIs(void)
