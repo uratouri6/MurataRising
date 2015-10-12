@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include "myNameIs.h"
 #include "thirdNameIs.h"
