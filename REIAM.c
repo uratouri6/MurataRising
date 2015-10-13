@@ -1,6 +1,8 @@
+
 #include <stdio.h>
 #include "myNameIs.h"
 #include "thirdNameIs.h"
+#include "MyName.h"
 
 void main(){
 	int i;
@@ -10,4 +12,5 @@ void main(){
 
 	myNameIs();
 	thirdNameIs();
+	MyName();
 }
